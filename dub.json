@@ -1,0 +1,10 @@
+{
+	"name": "perfectsquare",
+	"authors": [
+		"acorbi"
+	],
+	"description": "Create perfect squares.",
+	"copyright": "Copyright © 2016, acorbi",
+	"license": "gpl3",
+    "targetPath": "bin"
+}
