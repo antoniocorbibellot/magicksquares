@@ -15,4 +15,4 @@ The kind of output generated is like this:
 
 I Should do more testing apart from using more functional style...
 
-![Should I...](./images/testfrytest.png)
+![Should I...](images/testfrytest.jpg)
