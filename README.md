@@ -10,3 +10,9 @@ The kind of output generated is like this:
 [   3][   5][   7]
 [   4][   9][   2]
 ---------------------------
+
+## Testing
+
+I Should do more testing apart from using more functional style...
+
+![Should I...](./images/testfrytest.png)
