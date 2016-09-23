@@ -5,7 +5,7 @@ void main()
 {
 	writeln("Edit source/app.d to start your project.");
 
-    for (int n = 3; n < 22; n += 2) {
+    for (int n = 3; n < 7; n += 2) {
       Square s = new Square (n);
       s.computeValues;
       writeln ("\n",s);
