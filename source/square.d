@@ -17,10 +17,14 @@ class Square
     assert (n > 0);
     assert (n % 2 != 0);
 
+
+    matrix = new int[][](n,n);
+    /*
     matrix = new int[][n];    
     //foreach (ref r; matrix)  r = new int[n];
 
     matrix.each!((ref r) => r = new int[n]);
+    */
   }
 
   public void computeValues () {
